@@ -1,0 +1,80 @@
+.skill-img{
+    /* height: 300px; */
+    width: 102%;
+    border-radius:10px ;
+    background-color: white;
+}
+p >i{
+    padding-left: 10px;
+    font-size: 70px !important;
+    
+}
+
+.proTitle{
+    color: #707070;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.border{
+    border:red solid 2px
+}
+
+.backendImg{
+    margin-top: 10px !important;
+}
+
+.stackcircle{
+    /* height: 120px; */
+    width: 40px;
+    margin-left: 2%;
+}
+
+.techstack{
+    margin-left: 10%;
+}
+
+.htmlcss{
+    width: 50px !important;
+}
+
+.projectcard{
+    opacity: 0.7;
+    border-radius: 70px;
+}
+
+.projectcard:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
+.projectimg{
+    height: 200px;
+    border-radius: 10px;
+}
+
+.projectimg:hover {
+    transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+#profileBox{
+    width: 30%;
+}
+
+.profilePic{
+    width: 180px !important;
+    border-radius: 50%;
+}
+
+.discoveBtn{
+    margin-top: 10px;
+}
+
+.introBox{
+    margin-left:0px ;
+}
+
+
+
+  
